@@ -1,4 +1,4 @@
-Simple TypeScript file to to get real time heart rate monitoring data from MiBand 2 using BLE module.
+Simple TypeScript file to get real time heart rate monitoring data from MiBand 2 using BLE module.
 
 Contains source js file.
 
