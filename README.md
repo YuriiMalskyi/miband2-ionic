@@ -1,4 +1,6 @@
-Simple Ionic project to get real time heart rate monitoring data from MiBand 2 using BLE module.
+Simple TypeScript file to to get real time heart rate monitoring data from MiBand 2 using BLE module.
+
+Contains source js file.
 
 Credits to:
 1. vshymanskyy for his MiBand-js library: https://github.com/vshymanskyy/miband-js
